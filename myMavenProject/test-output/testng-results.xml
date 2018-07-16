@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76756" started-at="2018-07-09T11:36:37Z" finished-at="2018-07-09T11:37:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76756" started-at="2018-07-09T11:36:37Z" finished-at="2018-07-09T11:37:54Z">
+      <class name="com.org.LearningMaven.InnovoTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="beforeTest" is-config="true" duration-ms="31770" started-at="2018-07-09T11:36:37Z" finished-at="2018-07-09T11:37:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testDataServicesConsumption()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testDataServicesConsumption" duration-ms="16743" started-at="2018-07-09T11:37:09Z" finished-at="2018-07-09T11:37:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDataServicesConsumption -->
+        <test-method status="PASS" signature="testDistributionbyDeviceType()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testDistributionbyDeviceType" duration-ms="5590" started-at="2018-07-09T11:37:26Z" finished-at="2018-07-09T11:37:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDistributionbyDeviceType -->
+        <test-method status="PASS" signature="testTopOptions()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testTopOptions" duration-ms="20951" started-at="2018-07-09T11:37:32Z" finished-at="2018-07-09T11:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTopOptions -->
+        <test-method status="PASS" signature="testTopProviders()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testTopProviders" duration-ms="157" started-at="2018-07-09T11:37:53Z" finished-at="2018-07-09T11:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTopProviders -->
+        <test-method status="PASS" signature="testTopTariffPlans()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testTopTariffPlans" duration-ms="107" started-at="2018-07-09T11:37:53Z" finished-at="2018-07-09T11:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTopTariffPlans -->
+        <test-method status="PASS" signature="testVolumeDistribution()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="testVolumeDistribution" duration-ms="86" started-at="2018-07-09T11:37:53Z" finished-at="2018-07-09T11:37:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVolumeDistribution -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.org.LearningMaven.InnovoTest@3bfdc050]" name="afterTest" is-config="true" duration-ms="1206" started-at="2018-07-09T11:37:53Z" finished-at="2018-07-09T11:37:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.org.LearningMaven.InnovoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
